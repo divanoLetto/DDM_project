@@ -1,0 +1,11 @@
+OUTPUT_PATH = "/home/lorenzo/Scrivania/DDM/EAST-master/results/"
+INPUT_PATH = "/home/lorenzo/Scrivania/DDM/EAST-master/images/"
+PREPROCESSED_PATH = "/home/lorenzo/Scrivania/DDM/EAST-master/tmp/images/"
+CLUSTERED_PATH = "/home/lorenzo/Scrivania/DDM/EAST-master/results/clusters/"
+CHECKPOINT_PATH = "/home/lorenzo/Scrivania/DDM/EAST-master/east_icdar2015_resnet_v1_50_rbox"
+EXCEL_FILE = '/home/lorenzo/Scrivania/DDM/EAST-master/database_manager/new_biblioteca_02022021.xls'
+WEIGHTED_DISTANCE_CLUSTERING = True
+REMOVE_CLUSTER_WITH_1_ELEMENT = True
+Y_WEIGHT = 7
+RADIUS = 40
+NUM_BOOKS = 11
