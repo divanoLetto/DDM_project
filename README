@@ -1,6 +1,6 @@
 How to run the code:
 
 - download the EAST algorithm as described in: "https://github.com/argman/EAST"
-- insert this file in the EAST directory
+- insert this files in the EAST directory
 - insert the image you want to input in the images directory
 - execute my_code.main.py 
