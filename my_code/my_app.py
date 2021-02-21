@@ -30,20 +30,7 @@ def my_main():
         if is_image(image_name):
             print("image name: " + str(image_name))
             print("Num book: ")
-            # num_book = NUM_BOOKS
-            if(image_name == "a.jpg"):
-                tmp = 11
-            elif image_name == "b.jpg":
-                tmp = 12
-            elif image_name == "c.jpg":
-                tmp = 16
-            elif image_name == "d.jpg":
-                tmp = 14
-            else:
-                tmp = 13
-
-            num_book = tmp
-            # num_book = int(input())
+            num_book = int(input())
 
             # calcolo dei cluster e del testo in loro contenuto
             clusters = text_recognition(image_name)
