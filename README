@@ -1,4 +1,6 @@
-How to run the code:
+# Data and Document Mining Project
+
+## How to run the code:
 
 - download the EAST algorithm as described in: "https://github.com/argman/EAST"
 - insert this files in the EAST directory
