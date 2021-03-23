@@ -1,6 +1,7 @@
 # Data and Document Mining Project
 
-<img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg" width="50%" height="50%">
+<img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg" width="30%" height="30%"><img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg" width="30%" height="30%">
+
 
 ## Overview 
 
@@ -10,6 +11,7 @@ The developed application, which takes in an image containing the spines of book
 - A clustering algorithm, DBSCAN, is applied to the identified areas. Each cluster represents a contiguous writing, ie the title and/or the author of a single volume.
 - The Google Tesseract text recognition algorithm is applied to each cluster to extract the contained text.
 - The texts obtained are used to determine in which section of the library the image was taken through a comparison with the database of the library. Finally, the system attempts to detect the possible presence of books placed incorrectly on the shelf.
+
 
 <img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/workflow2.png" width="80%" height="80%">
 
