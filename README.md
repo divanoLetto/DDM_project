@@ -1,6 +1,6 @@
 # Data and Document Mining Project
 
-![alt text](https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg)
+![alt text](https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg){:height="50%" width="50%"}
 
 ## Overview 
 
