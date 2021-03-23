@@ -1,6 +1,6 @@
 # Data and Document Mining Project
 
-![Alt text](/images/Errore_ordinamento.jpg)
+![alt text](https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg)
 
 ## Overview 
 
@@ -11,6 +11,7 @@ The developed application, which takes in an image containing the spines of book
 - The Google Tesseract text recognition algorithm is applied to each cluster to extract the contained text.
 - The texts obtained are used to determine in which section of the library the image was taken through a comparison with the database of the library. Finally, the system attempts to detect the possible presence of books placed incorrectly on the shelf.
 
+https://github.com/divanoLetto/DDM_project/blob/main/Images/workflow2.png
 
 ## How to run the code:
 
