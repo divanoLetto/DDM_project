@@ -1,6 +1,6 @@
 # Data and Document Mining Project
 
-![Alt text](images/Errore_ordinamento.jpg?raw=true "Title")
+![Alt text](/images/Errore_ordinamento.jpg)
 
 ## Overview 
 
