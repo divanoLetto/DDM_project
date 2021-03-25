@@ -14,7 +14,7 @@ The developed application, which takes in an image containing the spines of book
 
 <img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/workflow2.png" width="80%" height="80%">
 
-For more detatils about the implementation and the results read the document relazione_progetto.pdf.
+For more detatils about the implementation and the results read the document *relazione_progetto.pdf*.
 
 ## How to run the code:
 
