@@ -1,6 +1,5 @@
 # Data and Document Mining Project
-
-<img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/presentazione2.png" width="70%" height="70%">
+ <div style="text-align:center"><img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/presentazione2.png" width="70%" height="70%"></div>
 
 ## Overview 
 
