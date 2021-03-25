@@ -1,7 +1,7 @@
 # Data and Document Mining Project
 
-<img align="left" src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Tesseracted.jpg" width="70%" height="70%">
-<img align="right" src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg" width="70%" height="70%">
+<img align="left" src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Tesseracted.jpg" width="30%" height="30%">
+<img align="right" src="https://github.com/divanoLetto/DDM_project/blob/main/Images/Errore_ordinamento.jpg" width="30%" height="30%">
 
 ## Overview 
 
