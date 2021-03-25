@@ -1,6 +1,6 @@
 # Data and Document Mining Project
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/presentazione.png" width="34%" height="34%">
+<img src="https://github.com/divanoLetto/DDM_project/blob/main/Images/presentazione.png" width="100%" height="100%">
 ## Overview 
 
 The goal of this project is to create a capable application to validate the correct arrangement of the books on the shelves of the library of the School of Engineering of the University of Florence.
